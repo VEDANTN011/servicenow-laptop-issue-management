@@ -14,7 +14,8 @@ Developed a custom ServiceNow application to manage laptop service requests. The
 - Imported data using Import Sets and Transform Maps.
 - Migrated configurations using Update Sets.
 
-  Screenshot	Description
+#Screenshot	Description
+  
 01_laptop_issue_form.png	Custom Laptop Issue form with auto-generated invoice number, requester reference, emergency option, and delivery details.
   
 02_laptop_information.png	Laptop information section with brand selection and document attachment fields.
