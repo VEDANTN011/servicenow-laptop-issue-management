@@ -16,7 +16,9 @@ Developed a custom ServiceNow application to manage laptop service requests. The
 
   Screenshot	Description
 01_laptop_issue_form.png	Custom Laptop Issue form with auto-generated invoice number, requester reference, emergency option, and delivery details.
+  
 02_laptop_information.png	Laptop information section with brand selection and document attachment fields.
+
 03_invoice_information.png	Invoice section with repair cost captured using a currency field.
                              Custom table created to store laptop issue records.
                             Table schema showing the custom fields created for the application.
